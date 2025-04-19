@@ -1,0 +1,22 @@
+{
+    "name": "각기둥, 각뿔 게임",
+    "short_name": "각기둥, 각뿔",
+    "start_url": "/25ps61/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "https://i.ibb.co/Y7X039jt/maskable-icon-x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://i.ibb.co/qMD8K9Xv/maskable-icon-x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
